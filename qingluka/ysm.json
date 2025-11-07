@@ -1,0 +1,49 @@
+{
+  "spec": 2,
+  "metadata": {
+    "name": "Alex Type II",
+    "tips": "由晴路卡制作的 Alex 模型",
+    "license": {
+      "type": "CC 0"
+    },
+    "authors": [
+      {
+        "name": "晴路卡",
+        "role": "模型",
+        "avatar": "avatar/qlk.png",
+        "contact": {
+          "Pixiv": "https://www.pixiv.net/users/41962817",
+          "Bilibili": "https://space.bilibili.com/33229178"
+        },
+        "comment": "贴一些MCJE原版内容"
+      },
+      {
+        "name": "哥斯拉",
+        "role": "模型",
+        "avatar": "avatar/gsl.png",
+        "contact": {
+          "Afdian": "https://afdian.com/a/6TGESILA",
+          "Bilibili": "https://space.bilibili.com/17798027"
+        },
+        "comment": "一个MC模型/YSM作者，想法很多，时间很少"
+      }
+    ],
+    "link": {
+      "home": "https://space.bilibili.com/33229178"
+    }
+  },
+  "properties": {
+    "free": true
+  },
+  "files": {
+    "player": {
+      "model": {
+        "main": "models/main.json",
+        "arm": "models/arm.json"
+      },
+      "texture": [
+        "textures/texture.png"
+      ]
+    }
+  }
+}
